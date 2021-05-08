@@ -1,0 +1,7 @@
+ - Before doing any commands you should have to run `open file.txt;` or something similar
+ - It should have a REPL but should mainly be a scripting language, probably for automatically editing files in bulk
+ - It needs regex support (obviously how could something like this not have support for regex)
+ - It should have an option to compile into native NodeJS code but should usually be interpreted (You would maybe want to compile it if you needed to edit a lot of files faster than if you interpreted it instead)
+ - The source code should stay away from non built-in libraries as much as possible
+ - Should be an actual programming language (like have for loops and utility functions like print and stuff)
+ - ye idk what else
